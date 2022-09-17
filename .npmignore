@@ -1,0 +1,17 @@
+lib/chromedriver/**
+tmp
+.eslintrc.json
+.gitignore
+Dockerfile
+test-driver.sh
+testInstall.js
+update.js
+*.tgz
+.vscode
+.editorconfig
+shippable.yml
+.devcontainer/**/*
+azure-pipelines.yml
+.github
+.travis.yml
+
